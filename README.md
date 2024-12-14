@@ -1,4 +1,5 @@
-shutterstock_1563971182-scaled
+![image](https://github.com/user-attachments/assets/e5b30478-a5c9-4a2b-81d4-8a580ac96385)
+
 Hi👋,I'm Rama Gawade | 🌟B.E(Computer Science Engineer)💫
 A Skilled Data Scientist / Data Analyst / AI/ML Engineer
 Coding
@@ -21,6 +22,10 @@ Connect with me:
 
 Languages and Tools:
 flask git linux mongodb mysql opencv pandas python scikit_learn seaborn tensorflow
+
+![image](https://github.com/user-attachments/assets/4185dd82-4cfb-4e67-a6eb-26c843714880)
+
+
 
 
 
