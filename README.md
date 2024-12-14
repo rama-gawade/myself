@@ -23,7 +23,6 @@ Connect with me:
 Languages and Tools:
 flask git linux mongodb mysql opencv pandas python scikit_learn seaborn tensorflow
 
-![image](https://github.com/user-attachments/assets/4185dd82-4cfb-4e67-a6eb-26c843714880)
 
 
 
