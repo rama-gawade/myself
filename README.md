@@ -15,6 +15,7 @@ Rama Gawade
 📄 Know about my experiences
 
 Data Science Intern @Netzwerk PVT.LTD
+
 Data Analyst Intern @Eyesec pvt.ltd 
 
 ⚡ Fun fact I think i have Missed something Even If i have done it already
